@@ -1,0 +1,11 @@
+pip install pyautogui
+pip install pyperclip
+
+-Usar webrosser
+
+ejecutar el codigo, escribir la cantidad de mensajes y tenemos 3 segundos para
+pinchar en la cajetilla 
+
+Debe de ser el la app 
+
+
