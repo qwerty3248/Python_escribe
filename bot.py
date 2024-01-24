@@ -2,7 +2,7 @@ import pywhatkit
 from datetime import datetime
 import time
 
-numero_tel = "+34660770992"
+numero_tel = "+34xxxxxxxxx"
 mensaje = "Como estás?"
 
 # Obtener la hora actual + 60 segundos
